@@ -1,0 +1,4 @@
+still
+clockwise
+anticlockwise
+move
