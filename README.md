@@ -4,7 +4,7 @@
 Classify Hand Gestures. Inspired by [@Kazuhito00](https://github.com/Kazuhito00)
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/udham2511/hand-Gesture-Classification/blob/main/screenshot.png)
 ## Run Locally
 
 Clone the project
